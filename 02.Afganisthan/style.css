@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.mainbox
+{
+    background-color: green;
+    border: 1px solid gray;
+    height: 500px;
+    width: 900px;
+}
+.left
+{
+    background-color: black;
+    height: 499px;
+    width: 300px;
+    display: block;
+    
+}
+
+.middle
+{
+    background-color: red;
+    height: 499px;
+    width: 300px;
+    margin-left: 300px;
+    display: block;
+}
+
+
+
+.logo img
+{
+    height: 100px;
+    width: 200px;
+    margin: 184px 54px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
